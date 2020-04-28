@@ -1,4 +1,6 @@
-# Group13-ECE9309
+# Machine-Learning-Avenues-in-Real-Life
+Group13-ECE9309
+
 This repositary is created for the purpose of uploading the project datasets and codes for the course ECE9309: Machine 
 Learning, From Theories to Application (Winter 2019, Western University of Ontario).
 
